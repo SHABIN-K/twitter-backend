@@ -19,6 +19,10 @@ router.get("/:id", async (req, res) => {
     where: { id: Number(id) },
   });
 
+  if (!user) {
+    return res.status(404).json({ error: "user not found!" });
+  }
+
   res.json(user);
 });
 
