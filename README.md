@@ -1,6 +1,6 @@
 # Twitter Backend Application
 
-This project is a Twitter backend application built using Node.js, Prisma, SQLite, JWT authentication, passwordless authentication, various middlewares, user management functionalities, and Docker containerization.
+This project is a Twitter backend application built using Node.js, Prisma, SQLite, JWT authentication, passwordless authentication, various middlewares and user management functionalities.
 
 ## Features
 
