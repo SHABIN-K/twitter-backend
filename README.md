@@ -32,8 +32,8 @@ This project is a Twitter backend application built using Node.js, Prisma, SQLit
 ## Authentication Endpoints
 
 - `POST /auth/login`: User login endpoint.
-- `POST auth/logout`: User logout endpoint.
-- `POST /auth/reset-password`: Reset password endpoint (passwordless).
+- `POST auth/authenticate`: user authentication
+
 
 ## Other Endpoints
 
