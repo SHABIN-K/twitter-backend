@@ -26,7 +26,6 @@ This project is a Twitter backend application built using Node.js, Prisma, SQLit
    npm start
 ```
 
-
 # Endpoints
 
 ## Authentication Endpoints
